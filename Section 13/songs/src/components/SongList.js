@@ -24,7 +24,7 @@ class SongList extends Component {
 }
 
 const test = state => {
-  console.log(state);
+  // console.log(state);
 
   return { songs: state.songs };
 };
